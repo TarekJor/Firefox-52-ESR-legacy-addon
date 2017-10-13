@@ -56,3 +56,9 @@ DownThemAll => author seems
 
 original (checksum-friendly) XPI last stable versions if addons, extensions, completeThemes as mirrors (personal list, not "complete list" by now)
 maybe CSV (name,version,author,Firefox version compatibility) to manage more easy and a Google Docs SpreadSheet to social collaboration
+
+
+-Examples of authors killing creations (logic: I kill it because i created it)
+
+https://addons.mozilla.org/en-US/firefox/addon/patch-for-library/
+https://addons.mozilla.org/en-US/firefox/addon/SearchPlaces/
