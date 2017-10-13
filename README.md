@@ -1,7 +1,10 @@
 # Firefox53ESR-legacy-addons (WIP) created: 2017-10...
 -A curated list and XPI files of Mozilla Firefox browser extensions, addons, themes from addons.mozilla.org, before XUL-based purge blackout
 
+-Current state of this (document) is imperfect and RAW as RAW meat, but will be updated (cooked) continuously
+
 -DISCLAIMER
+
 
 I respect author rights as original source code creator open source licenses, credit etc, but NO about "copyright" literal as "distribution" exclusivity => STATEMENT: I reject totally deeply ( add more adjetives here) the logic: "I kill it, I abandon it because it is my creation", "I kill it because it is mine" this is not acceptable for my as some software has unique and useful social value beyond individual selfish reasons
 
