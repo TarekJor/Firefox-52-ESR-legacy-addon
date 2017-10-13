@@ -22,3 +22,5 @@ mirror: http://archive.is/watrT
 # Topic: bookmark-manager on GitHub
 https://github.com/topics/bookmark-manager
 
+# Topic: bookmark on GitHub
+https://github.com/topics/bookmark
