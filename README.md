@@ -60,5 +60,23 @@ maybe CSV (name,version,author,Firefox version compatibility) to manage more eas
 
 -Examples of authors killing creations (logic: I kill it because i created it)
 
-https://addons.mozilla.org/en-US/firefox/addon/patch-for-library/
-https://addons.mozilla.org/en-US/firefox/addon/SearchPlaces/
+https://addons.mozilla.org/en-US/firefox/addon/patch-for-library/ => by  White Alice0775
+https://addons.mozilla.org/en-US/firefox/addon/SearchPlaces/  => by Andy Halford 
+
+-Important bugFixes on Firefox places (bookmarks, history)
+... be continued
+
+-PERSONAL Opinion
+
+Chromium, Webkit, Firefox, Mozilla, Opera, all main browsers are in hands of "non be evil" companies, corporations, even Mozilla last moves seems the opposite Philosophy of users and devs first (devs are users too) and XUL-addons are used mostly by powerUsers daily and are powerful enought to deserve proper respect, support and replacing before killing them
+
+There is not a browser development powered by a real P2P community (Chromium Waterfox or Mozilla is at the end corporation-driven), all are forks that follow big brother (in all senses), i think would be great if open source community joins to improve the browser development (in terms of code management, compatibility, customization, performance) etc
+
+-KEY though
+
+When I see
+
+-Observation
+
+This document is a expression of some chaos, ideas and thoughs, but chaos tends to relation and order, so check out in a few weeks and see the light (it is a joke, but RAW state will become "state of art" ;)
+
