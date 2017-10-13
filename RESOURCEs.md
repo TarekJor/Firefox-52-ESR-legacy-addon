@@ -24,3 +24,6 @@ https://github.com/topics/bookmark-manager
 
 # Topic: bookmark on GitHub
 https://github.com/topics/bookmark
+
+# Import, export bookmarks .html + tags (Delicious, clones, Pinboard, Firefox)
+https://superuser.com/questions/223182/importing-delicious-export-into-firefox-3
