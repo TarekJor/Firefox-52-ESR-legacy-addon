@@ -38,7 +38,7 @@ Addons.Mozilla.Org (primary source)
 Chrome.Webstore (WebExtensions replacers and Chromium|Blink-alternatives)
 Www/mirrors
 MozillaZine (Firefox powerUsers community)
-
+GHacks for news (seems Martin Brickmann is very interested on Firefox, browsers etc), good source
 FEBE => key feature (must be on stable build as internal non an addon!!!)
 SearchPlaces => non replacers yet, even Patch For Library (addon) to edit places.uris is deleted by author on addons.mozilla.org
 SortPlaces => ...
