@@ -74,7 +74,13 @@ There is not a browser development powered by a real P2P community (Chromium Wat
 
 -KEY though
 
-When I see
+When I see, Chromium and Chrome force limitation about remember history (90 days or three months old) i have backups but that makes me angry even today (withut proper advice or notice), some see browser history as a "diary of web browsing" and it is useful for agile bookmarking etc (wihout the compulsive star syndrome of push bookmark button million times) that was a key moment, i realize that i want to preserve my data and control expirations, and prevent "SHIT" and "mess" with my things by "smart app" that though for me and decides for me.
+
+Next key moment is when i realize sync services like Chrome Sync or Firefox Sync even Pinboard(interesting) or Xmarks (creepy) make me dependant of third party services, non zero-knowledge, non privacy-friendly and even bad performance, because if you have bookmarks, urls or history ith about 10k order (n*10k) all seems to work bad
+
+But even bookmarking in browsers is bad, eventually i go to self hosted customized web apps, and my own server, but integration with browser is a need for me (visited links mark, bookmarked links mark etc and sync across devices, mobile etc, so internal sync is a need (but i prefer my own hosted like NextCloud, Owncloud than a Xmarks or EverSync, Firefox Sync solution
+
+PD: Initially this is a "mess" as diffuse graph of chaotic thoughs, but eventually will have many sense
 
 -Observation
 
