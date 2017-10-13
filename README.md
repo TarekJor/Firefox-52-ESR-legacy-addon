@@ -1,6 +1,8 @@
 # Firefox53ESR-legacy-addons (WIP) created: 2017-10...
 A curated list and XPI files of Mozilla Firefox browser extensions, addons, themes from addons.mozilla.org, before XUL-based purge blackout
 
+-WIP (non formatted, yet, bad grammar and typos for sure)
+
 -Why? (reason of this)
 
 Mozilla will be (soon) this November-2017
