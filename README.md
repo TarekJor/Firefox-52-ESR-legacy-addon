@@ -1,6 +1,58 @@
 # Firefox53ESR-legacy-addons (WIP) created: 2017-10...
 -A curated list and XPI files of Mozilla Firefox browser extensions, addons, themes from addons.mozilla.org, before XUL-based purge blackout
 
+*First and example of what w loose on new software (with deprecated features, and functionality capped)
+
+Firefox Places query syntax
+related to "Patch For Library" and "TagSieve" and "SearchPlaces" addons
+http://forums.mozillazine.org/viewtopic.php?t=629560
+
+this allow use powerfull tagging in firefox places without external apps or web/apps, locally (is a plus) and using places.sqlite as urls container (easy enought) in addition to this Pinboard Diigo, Delicious (RIP) and others seems to allow some type of tagging and formats, yeah i know exist a very large number of cms-based, proyects, Delicious clones, desktop apps, etc but hey, this is cross platform and is on local desktop browser (easy to mantain) fast enough and connected to browser
+
+tagging is a must-have for me and smartFolders or virtualFolders as "auto.tagging" container too 
+
+*I interested on browsers customization because we use them all the time, the most of the time, and productivity integration with addons and configs is a must have for me in my research and work (so yes, i am a browser poweruser who makes magic with software)
+
+- Addons.Mozilla.Org (AMO for now) state
+  aprox 20.900 extensions (addons) 
+  aprox 1000 pages with 20 extensions (per.page)
+  
+  hierarchy curation of "important ones"
+  logic: more users (more key feature more value more needed etc) => this is false globally but applies good for relevance => popularity => masses => users volume usage so
+  
+  most used addon is (by far) Adblock Plus with 14.4M (millions) of users (aprox)
+  folloed by Video Download Helper 3.7M (millions) and NoScript 1.7M (millions) of users (aprox) we see that difference is notable even in most used addons (it is know that AdBlock is a demanded "IT friend install me an ad blocker) so etc uBLock is about 4M (millions) this is because "inertia" of "who first arrive" or "veteran" et AdBlock name > uBlock (seems to be an explaination
+  
+  (this is for explain the selected method of curation) and at least "non automation" beyond less x user usage number
+ At page 10 (10*20) => 200 addons later aprox usage is about 50k (50.000 users)
+ At page 50 (50*20) => 1000 addons later aprox usage is about 6k (6000 users)
+ 
+ 1000 addons and 6000 users as bottom limit (seems fine) to "keep confidence" about archiving "useful addons"
+ because logic: "if users ( a decent number don't use an addon, therefore is not useful, good etc)
+ 
+ at page 100 (2000 users) and 2000 addons later (minor addons maybe useful, but non key features i think
+ 
+ At page 200 (aprox 400 users) and 4000 addons later (i dont see much valuable but ith help, we could SaveThem'all hahaha
+ At page 300 (aprox 150 users) and 6000 addons later (maybe some gems, which nobody knows has good ideas for new features)
+ At page 500 (aprox 30 users per addon, this is low enought to say, addons beyond this dont deserve our time, with exception of abandon but interesting or exceptions "exceptionale" so this would be my limit
+ 
+ Method
+ 
+ I use webScraping and webMining to extract a graph of words and structured data from Mozilla and group addons with keywords in a graph then y design a tree of features and take ideas for example 
+  cookies, management, backup, edit, etc 
+  password, with tags, sync, keepass, integration
+  bookmarks, tags, sync, edit, gui 
+  custmization, theme 
+  search, engine, backup 
+  backup, FEBE, CLEO, OPIE, places, CSV, import, export
+  
+  
+  this is easy, fast and never backup "shit" addons
+ 
+ 
+ What about addons not listed because mozilla or author kill them (like SearchPlaces, Zotero (the integrated Firefox version, now is standalone) or others like Patch For Library (which is important for me for personal purposes), well, you must reverse search on web archives or MozillaZine, gHacks old news, to retrieve "some useful addons" like Shelve, that masses never know about
+ 
+
 -Current state of this (document) is imperfect and RAW as RAW meat, but will be updated (cooked) continuously
 
 -DISCLAIMER
