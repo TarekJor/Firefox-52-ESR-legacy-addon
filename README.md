@@ -44,3 +44,8 @@ Cookies
 FireFTP 
 FireSSH 
 DownThemAll => author seems
+
+-Repository structure
+
+original (checksum-friendly) XPI last stable versions if addons, extensions, completeThemes as mirrors (personal list, not "complete list" by now)
+maybe CSV (name,version,author,Firefox version compatibility) to manage more easy and a Google Docs SpreadSheet to social collaboration
