@@ -52,7 +52,7 @@ Cookies
 
 FireFTP 
 FireSSH 
-DownThemAll => author seems
+DownThemAll => authors seems "angry" "preparing silencers" (non literally I suppose) about Mozilla move of deprecating this (and other too
 
 -Repository structure
 
