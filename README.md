@@ -3,7 +3,9 @@ A curated list and XPI files of Mozilla Firefox browser extensions, addons, them
 
 
 -Objectives (focus)
+
 FirefoxPLaces (bookmarks, history) => key features
+
 XUL customization (bars, sliders, sidebars
 
 SearchPlaces => non replacers yet, even Patch For Library (addon) to edit places.uris is deleted by author on addons.mozilla.org
