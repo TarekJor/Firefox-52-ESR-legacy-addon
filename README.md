@@ -5,7 +5,7 @@ A curated list and XPI files of Mozilla Firefox browser extensions, addons, them
 
 -Why? (reason of this)
 
-Mozilla will be (soon) this November-2017
+Mozilla will be (soon) this November-2017 purge XUL support for addons, force "WebExtensions" only (without being a replacer, non-proper mature technology and disrespectul to community devs (veterans, and loyal supporters) => THIS IS A BAD MOVE, Mozilla
 
 -Objectives (focus)
 
