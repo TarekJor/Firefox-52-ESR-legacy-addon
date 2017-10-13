@@ -5,6 +5,8 @@
 
 -DISCLAIMER
 
+This document is produced (now) with voice dictation, Markdown microsyntax with symbols is easy for keyboard but for now not best to add symbols and block delimiters (yeah, that explains the ugly RAW format and disorder), but in terms of productivity this was created on a few minutes (as raw sketch notes), think about it 
+
 
 I respect author rights as original source code creator open source licenses, credit etc, but NO about "copyright" literal as "distribution" exclusivity => STATEMENT: I reject totally deeply ( add more adjetives here) the logic: "I kill it, I abandon it because it is my creation", "I kill it because it is mine" this is not acceptable for my as some software has unique and useful social value beyond individual selfish reasons
 
