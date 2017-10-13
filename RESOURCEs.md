@@ -13,3 +13,7 @@ https://github.com/davidlazar/jotmuch
 
 With the Bookmarks Organizer it's easy to put order in your bookmarks. The Bookmarks Organizer finds no longer working bookmarks, redirects, duplicates and more!
 https://github.com/cadeyrn/bookmarks-organizer
+
+SyncPlaces, SortPlaces ... preserving these and other excellent Firefox add-ons - Daniel Lange's blog
+https://daniel-lange.com/archives/71-SyncPlaces,-SortPlaces-...-preserving-these-and-other-excellent-Firefox-add-ons.html
+mirror: http://archive.is/watrT
