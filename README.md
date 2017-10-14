@@ -1,4 +1,7 @@
 # Firefox53ESR-legacy-addons (WIP) created: 2017-10...
+# Index 
+[Why? (reason of this)](#Why? (reason of this))
+
 ## Why? (reason of this)
 
 Mozilla will be (soon) this November-2017 purge XUL support for addons, force "WebExtensions" only (without being a replacer, non-proper mature technology and disrespectul to community devs (veterans, and loyal supporters) => THIS IS A BAD MOVE, Mozilla.
