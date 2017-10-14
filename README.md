@@ -26,7 +26,7 @@ tagging is a must-have for me and smartFolders or virtualFolders as "auto.taggin
 
 *I interested on browsers customization because we use them all the time, the most of the time, and productivity integration with addons and configs is a must have for me in my research and work (so yes, i am a browser poweruser who makes magic with software)
 
-- [Addons Mozilla (AMO)](http://addons.mozilla.org/) (AMO for now) state
+## [Addons Mozilla (AMO)](http://addons.mozilla.org/) (AMO for now) state
 aprox 20.900 extensions (addons) 
 aprox 1000 pages with 20 extensions (per.page)
 seems that only  first 1000 addons ordered by users usage number are relevant at first batch.
