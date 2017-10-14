@@ -100,7 +100,7 @@ This document is produced (now) with voice dictation, Markdown microsyntax with 
 ### Notice: (WIP) (non well-formatted, yet, bad grammar and typos for sure)
 ## Distribution statement
 
-I respect author rights as original source code creator open source licenses, credit etc, but NO about "copyright" literal as "distribution" exclusivity => STATEMENT: I reject totally deeply ( add more adjetives here) the logic: "I kill it, I abandon it because it is my creation", "I kill it because it is mine" this is not acceptable for my as some software has unique and useful social value beyond individual selfish reasons, and this are open source and GPL, etc based packages.
+I respect author rights as original source code creator open source licenses, credit etc, but NO about "copyright" literal as "distribution" exclusivity => STATEMENT: I reject totally deeply ( add more adverbs and adjectives here) the logic: "I kill it, I abandon it because it is my creation", "I kill it because it is mine" this is not acceptable for my as some software has unique and useful social value beyond individual selfish reasons, and this are open source and GPL, etc based packages.
 
 ## Objectives (focus)
 
