@@ -178,13 +178,15 @@ Maybe CSV text file (name,version,author,Firefox version compatibility) to manag
 
 Chromium, Webkit, Firefox, Mozilla, Opera, all main browsers are in hands of "non be evil" companies, corporations, even Mozilla last moves seems the opposite Philosophy of users and devs first (devs are users too) and XUL-addons are used mostly by powerUsers daily and are powerful enought to deserve proper respect, support and replacing before killing them
 
-There is not a browser development powered by a real P2P community (Chromium Waterfox or Mozilla is at the end corporation-driven), all are forks that follow big brother (in all senses), i think would be great if open source community joins to improve the browser development (in terms of code management, compatibility, customization, performance) etc
+There is not a browser development powered by a real P2P community (Chromium, Opera or Mozilla are at the end corporation-driven), all are forks that follow big brother (in all senses), i think would be great if open source community joins to improve the browser development (in terms of code management, compatibility, customization, performance) etc
+
+My only hope, at least until find replacers or XUL support long time is **WaterFox**, seems better than **Pale Moon** (this seems obsolete and outdated like an old Firefox ESR build, small team, and lack of resources, difficult to re merge patches from Mozilla code etc on modified source code base etc)
 
 ## About History expiration (key though) 
 
-When I see, Chromium and Chrome force limitation about remember history (90 days or three months old) i have backups but that makes me angry even today (withut proper advice or notice), some see browser history as a "diary of web browsing" and it is useful for agile bookmarking etc (wihout the compulsive star syndrome of push bookmark button million times) that was a key moment, i realize that i want to preserve my data and control expirations, and prevent "SHIT" and "mess" with my things by "smart app" that though for me and decides for me.
+When I see, Chromium and Chrome force the limitation about remember history (90 days or three months old) I have backups but that makes me angry even today (without proper advice or notice), some see browser history as a "diary of web browsing" and it is useful for agile bookmarking etc (wihout the compulsive star syndrome of push bookmark button million times) that was a key moment, i realize that i want to preserve my data and control expirations, and prevent "SHIT" and "mess" with my things by "smart app" that though for me and decides for me.
 
-Next key moment is when I realize sync services(*1) like Chrome Sync or Firefox Sync even Pinboard(interesting) or Xmarks (creepy) make me dependant of third party services, non zero-knowledge, non privacy-friendly and even bad performance, because if you have bookmarks, urls or history ith about 10k order (n*10k) all seems to work bad
+Next key moment is when I realize sync services like Chrome Sync or Firefox Sync even Pinboard(interesting) or Xmarks (creepy) make me dependant of third party services, non zero-knowledge, non privacy-friendly and even bad performance, because if you have bookmarks, urls or history ith about 10k order (n*10k) all seems to work bad
 
 But even **bookmarking on current modern browsers is bad and old**, lack of features (and I think it is a core one).
 
