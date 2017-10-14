@@ -1,4 +1,8 @@
 # Firefox53ESR-legacy-addons (WIP) created: 2017-10...
+## Why? (reason of this)
+
+Mozilla will be (soon) this November-2017 purge XUL support for addons, force "WebExtensions" only (without being a replacer, non-proper mature technology and disrespectul to community devs (veterans, and loyal supporters) => THIS IS A BAD MOVE, Mozilla.
+
 ## Main Objective
 Convince Mozilla and Mozillians to create some legacy.mozilla.org/addons domain to migrate all deprecaed, obsolete and abandonware froma addons.mozilla.org (then they clean up main site, but without purging addons)
 Seems some developers are angry and they are using "IKIBIM" (I Kill It Because Is Mine") logic and purging they creations from Mozilla site (and there is not mirror, so what we could do (webArchiving vs copyRight, the decision is clear).
@@ -73,10 +77,6 @@ This document is produced (now) with voice dictation, Markdown microsyntax with 
 ## Distribution statement
 
 I respect author rights as original source code creator open source licenses, credit etc, but NO about "copyright" literal as "distribution" exclusivity => STATEMENT: I reject totally deeply ( add more adjetives here) the logic: "I kill it, I abandon it because it is my creation", "I kill it because it is mine" this is not acceptable for my as some software has unique and useful social value beyond individual selfish reasons, and this are open source and GPL, etc based packages.
-
-## Why? (reason of this)
-
-Mozilla will be (soon) this November-2017 purge XUL support for addons, force "WebExtensions" only (without being a replacer, non-proper mature technology and disrespectul to community devs (veterans, and loyal supporters) => THIS IS A BAD MOVE, Mozilla.
 
 ## Objectives (focus)
 
