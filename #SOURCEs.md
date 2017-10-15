@@ -3,7 +3,7 @@
 ## IMPORTANT!!!
 
 [Alive... OR ARE THEY - Archiveteam](http://archiveteam.org/index.php?title=Alive..._OR_ARE_THEY)
-<addons.mozilla.org - On November 2017, Mozilla will release Firefox 57, which will only support WebExtensions.[1] It is curently unclear what exactly will happen with the thousands of "legacy add-ons". Currently, later versions of Firefox will be unable to download these addons, though the download link can still be easily reached by digging into the source code.
+< addons.mozilla.org - On November 2017, Mozilla will release Firefox 57, which will only support WebExtensions.[1] It is curently unclear what exactly will happen with the thousands of "legacy add-ons". Currently, later versions of Firefox will be unable to download these addons, though the download link can still be easily reached by digging into the source code.
 <
 
 ## webArchives:
@@ -11,7 +11,7 @@
 - [Wayback Machine - archive.org](http://web.archive.org/)
 - [Archive.is](http://archive.is/)
 - local repo /www and www/Internet to gathering
-- [ArchiveTeam] - (http://www.archiveteam.org/index.php?title=Main_Page)(this fellas are REAL heroes for me)
+- [ArchiveTeam](http://www.archiveteam.org/index.php?title=Main_Page)(this fellas are REAL heroes for me)
 - mics/Internet ftp/mirrors around the web
 
 ## Mozilla/Firefox:

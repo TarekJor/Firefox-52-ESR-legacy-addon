@@ -99,8 +99,8 @@ I respect author rights as original source code creator open source licenses, cr
 
 Any fella who wants contribute 
 
-## Sources (see [sources](/#SOURCEs.md)
-## Questions (see [questions](/QUESTIONs..md)
+## Sources (see [sources](/%23SOURCEs.md))
+## Questions (see [questions](/QUESTIONs..md))
 ## [IDEAs to improve Mozilla and Firefox(/# IDEAs to improve Mozilla and Firefox.md]
 ## Other failures and bad decisions by **Mozilla**
 - FirefoxOS aka Boot2Gecko
