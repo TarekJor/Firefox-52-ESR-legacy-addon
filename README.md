@@ -25,72 +25,46 @@
 
 ## Why? (reason of this)
 
-Mozilla will be (soon) this November-2017 purge XUL support for addons, force "WebExtensions" only (without being a replacer, non-proper mature technology and disrespectul to community devs (veterans, and loyal supporters) => THIS IS A BAD MOVE, Mozilla.
+Mozilla will be (soon, this November-2017)
+- Purge XUL, XPCOM support for addons (Firefox extensions, themes)
+- Force "WebExtensions" only for addons development (WebExtensions technology are not a total a replacer, and are non-proper mature technology
+- Very disrespectul to community devs (veterans, and loyal supporters) => THIS IS A BAD MOVE, Mozilla.
 
-## Main Objective
-Convince Mozilla and Mozillians to create some legacy.mozilla.org/addons domain to migrate all deprecaed, obsolete and abandonware froma addons.mozilla.org (then they clean up main site, but without purging addons)
-Seems some developers are angry and they are using "IKIBIM" (I Kill It Because Is Mine") logic and purging they creations from Mozilla site (and there is not mirror, so what we could do (webArchiving vs copyRight, the decision is clear).
+As an example effort what we will loose on new software (Rapid Development, Rapid deprecation) driven (deprecated features, not end user support and functionality capped without blink, no hesitation)
+As an example to archive "SHIT" even beyond "copyright" demands or author desires (existence of utility it is more important than selfish reasons)
 
 ## Introduction 
-A curated list and XPI files of Mozilla Firefox browser extensions, addons, themes from addons.mozilla.org, before XUL-based purge blackout
+A curated list and XPI files of Mozilla Firefox browser extensions, addons, themes from addons.mozilla.org, before XUL-based purge blackout.
+Thougs about webArchiving and references, while working in this project
+Thoughs about social collaboration and open source development context, egos and shit, ForkSyndrome (but not in co-working environment)
 
-## Why?
-*First and example of what we loose on new software (Rapid Development, rapid deprecation (with deprecated features, and functionality capped without blink, no hesitation)
+## Objective
+- First, archive personal used addons for backup purposes, in case they dissapear soon from official repos
+- Convince some Mozillians => Mozilla, to create some legacy.mozilla.org/addons domain to migrate all deprecaed, obsolete and abandonware from addons.mozilla.org (then they clean up main site, but without purging addons)
+- STOP the "IKIBIM", some developers are angry and they are using "IKIBIM" (I Kill It Because Is Mine") logic and purging they creations from Mozilla site (and there is not mirror, so what we could do (webArchiving vs copyRight, the decision is clear).
+- Easy life for Firefox users as pre-FF57 refugees, whom want preserve workplace for a few month or years using "**Firefox 53 ESR builds**"
 
-### Firefox Places (bookmarks, history) & query syntax
+## Repository structure [WIP]
 
-Firefox is the only browser that support tag bookmarks in a consistent way without folder=tags cheating and good implemented (could be improved, yes)
-Firefox addons killed with good functionality like
-related to **"Patch For Library" and "TagSieve" and "SearchPlaces" addons**
-[Firefox Places query-syntax on MozillaZine thread ](http://forums.mozillazine.org/viewtopic.php?t=629560)
+/xpi => xpi files
+	- checksum identical from addons.mozilla.org source
+	- last stable version, & sometimes last beta version
 
-this allow use powerfull tagging in firefox places without external apps or web/apps, locally (is a plus) and using places.sqlite as urls container (easy enought) in addition to this Pinboard Diigo, Delicious (RIP) and others seems to allow some type of tagging and formats, yeah i know exist a very large number of cms-based, proyects, Delicious clones, desktop apps, etc but hey, this is cross platform and is on local desktop browser (easy to mantain) fast enough and connected to browser
+/www => archive snapshots of url.resources 
+	- posts, threads, etc 
+	- mirrors from archive.is or Wayback Machine
+	- local onePage oneFile snapshots in formats (.MHT, .MHTML, .MAFF)
+	- * oneFile formats are more easy to share and mantain (contain HTML, CSS etc, and rendered page)
 
-tagging is a must-have for me and smartFolders or virtualFolders as "auto.tagging" container too 
+/metadata => www log and references
+	- XPI log and references
 
-*I interested on browsers customization because we use them all the time, the most of the time, and productivity integration with addons and configs is a must have for me in my research and work (so yes, i am a browser poweruser who makes magic with software)
+## Key features 
+- Firefox Places component (bookmarks, history) enhancements and compatibility
+- SearchPlaces, CheckPlaces, SyncPlaces, Bookmarks Organizer
+- webarchiving standAlone on Firefox locally: MHT, UnMHT, MAFF, Zotero, Shelve, ScrapBook preserved
+- HallOfFame addons like FEBE, Classic Theme Restorer, FireFTP, FireSSH... etc (see extension.list [WIP])
 
-## [Addons Mozilla (AMO)](http://addons.mozilla.org/) (AMO for now) state
-aprox 20.900 extensions (addons) 
-aprox 1000 pages with 20 extensions (per.page)
-seems that only  first 1000 addons ordered by users usage number are relevant at first batch.
-
-If a Diogenes Syndrome method is applied we could go until page.300 (6000 addons) total is 20.900 so is about a 33% saved and relevant (not bad meme here)
-- Curation and hierarchy is a need because even "saving everything" approach, for me webArchiving must be useful not only "Diogenes Syndrome"
-- Curation by hierarchy of "important ones"
-logic: more users (more key feature, more value, more needed etc) => this is false globally but applies good for relevance => popularity => masses => users volume usage so (more quality, importance)
-  
-- **Most used addon is (by far) Adblock Plus with 14.4M (millions) of users (aprox)**
-- Followed by **Video Download Helper 3.7M (millions) and NoScript 1.7M (millions) of users (aprox)** we see that difference is notable even in most used addons (it is known that **AdBlock is a demanded "IT friend install me an ad blocker"**), **uBLock** is about **4M (millions)** Adblock is better than uBlock? (i think not) but this is because "inertia" of "who first arrive" or "veteran" and **AdBlock** name seems more "known than > *uBlock* (seems to be an explaination)
-
- (this is for explain the selected method of curation) and at least "non automation" beyond less x user usage number: [updated to 2017-10]
-- At page 10 (10*20) => 200 addons later aprox usage is about 50k (50.000 users)
-- At page 50 (50*20) => 1000 addons later aprox usage is about 6k (6000 users)
-- 1000 addons and 6000 users as bottom limit (seems fine) to "keep confidence" about archiving "useful addons"
-because logic: "if users ( a decent number don't use an addon, therefore is not useful, good etc")
- - At page 100 (2000 users per addon) and 2000 addons later (minor addons maybe useful, but non key features i think
-- At page 200 (aprox 400 users per addon) and 4000 addons later (i dont see much valuable but, we could SaveThem'all hahaha
-- At page 300 (aprox 150 users per addon) and 6000 addons later (maybe some gems, which nobody knows has good ideas for new features)
-- At page 500 (aprox 30 users per addon, this is low enought to say, addons beyond this dont deserve our time, with exception of abandon but interesting or exceptions "exceptionale" so this would be my limit
-
-Conclusion: 
-## Method of archiving
- 
-I use webScraping and webMining to extract a graph of words and structured data from Mozilla and group addons with keywords in a graph then y design a tree of features and take ideas for example:
-
- - cookies, management, backup, edit, etc 
- - password, with tags, sync, keepass, integration
- - bookmarks, tags, sync, edit, gui 
- - custmization, theme 
- - search, engine, backup 
- - backup, FEBE, CLEO, OPIE, places, CSV, import, export
-  
-  
-*this is easy, fast and never backup "shit" addons, take bes on one niche or category, for example **InstantFox** on custom search/engines
- 
-## AMO and killed addons
-
-What about addons not listed because mozilla or author kill them (like SearchPlaces, Zotero (the integrated Firefox version, now is standalone) or others like Patch For Library (which is important for me for personal purposes), well, you must reverse search on web archives or MozillaZine, gHacks old news, to retrieve "some useful addons" like Shelve, that masses never know about.
 
 ## Notice
 Current state of this (document) is imperfect and RAW as RAW meat, but will be updated (cooked) continuously.
@@ -125,14 +99,9 @@ I respect author rights as original source code creator open source licenses, cr
 
 Any fella who wants contribute 
 
-## Sources
-- [MozillaZine](http://mozillazine.com/) -  (Firefox powerUsers community)
-- [Reddit](http://reddit.com) (subreddits: Firefox, Mozilla, WaterFox... etc)
-- [AMO](http://addons.mozilla.org/) (primary source)
-- [ChromeWebstore](https://chrome.google.com/webstore) (WebExtensions replacers and Chromium|Blink-alternatives) (yeah is the enemy-competitor :P)
-- Www/mirrors around the web, ftps etc
-- [GHacks](http://ghacks.com)- For news about Firefox, Waterfox etc (seems **Martin Brickmann** is very interested on Firefox, browsers etc), good source
-- 
+## Sources (see [sources](/#SOURCEs.md)
+## Questions (see [questions](/QUESTIONs..md)
+## [IDEAs to improve Mozilla and Firefox(/# IDEAs to improve Mozilla and Firefox.md]
 ## Other failures and bad decisions by **Mozilla**
 - FirefoxOS aka Boot2Gecko
 - Australis (for me that is a good decision, is not a mistake
