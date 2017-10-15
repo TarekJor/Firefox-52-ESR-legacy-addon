@@ -16,6 +16,7 @@
 
 ## Mozilla/Firefox:
 
+- [WaterFox Github repository](https://github.com/MrAlex94/Waterfox)
 - [AMO - Addons Mozilla Org](https://addons.mozilla.org/)  (primary source)
 - [MozillaZine Forums](http://forums)
 
