@@ -56,9 +56,10 @@ Thoughs about social collaboration and open source development context, egos and
 	- local onePage oneFile snapshots in formats (.MHT, .MHTML, .MAFF)
 	- * oneFile formats are more easy to share and mantain (contain HTML, CSS etc, and rendered page)
 
-/metadata => www log and references
+/metadata => www log and references [WIP]
 	- XPI log and references
-
+	- database => Naming + lastVersionCompatible
+	- Naming using "FEBE-like" schema (camelCase.name + {version}) => example NoScript{5.1.2}.xpi
 ## Key features 
 - Firefox Places component (bookmarks, history) enhancements and compatibility
 - SearchPlaces, CheckPlaces, SyncPlaces, Bookmarks Organizer
