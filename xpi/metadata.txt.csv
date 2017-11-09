@@ -1,8 +1,0 @@
-encoding: UTF-8
-title: Firefox53ESR-legacy-addons / xpi / metadata
-csv.list
-{header}
-extension.name , state , FirefoxESR.version.compatible
-...
-SearchPlaces , legacy.abandoned , 
-#info https://daniel-lange.com/archives/71-SyncPlaces,-SortPlaces-...-preserving-these-and-other-excellent-Firefox-add-ons.html
