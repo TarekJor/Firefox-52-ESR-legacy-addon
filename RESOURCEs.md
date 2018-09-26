@@ -4,9 +4,9 @@ Description: A small list of interesting **tools**, information and links relate
 
 ## List of Bookmarking related tools and utils:
 
-- **[# 416611 @Bugzilla - support importing tags from bookmarks.html exports (del.icio.us and others)](https://bugzilla.mozilla.org/show_bug.cgi?id=416611)
+- [**# 416611 @Bugzilla - support importing tags from bookmarks.html exports (del.icio.us and others)](https://bugzilla.mozilla.org/show_bug.cgi?id=416611)
 
-- **Tool to tag imported bookmarks from del.icio.us in Firefox, see header for description**](https://gist.github.com/novalis111/84f4cb6a2a08975daa26)
+- [**Tool to tag imported bookmarks from del.icio.us in Firefox, see header for description**](https://gist.github.com/novalis111/84f4cb6a2a08975daa26)
 
 - [**Buku (aka MarkIt) Powerful command-line bookmark manager. Your mini web!**](https://github.com/jarun/Buku)
 
