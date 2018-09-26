@@ -12,7 +12,7 @@ Description: A small list of interesting **tools**, information and links relate
 
 - [**davidlazar/jotmuch: Jotmuch bookmark manager**](https://github.com/davidlazar/jotmuch)
 
-- [**Bookmarks Organizer (Firefox addon WebExtension) manager, duplicates, http* errors, WebExtension**](https://github.com/cadeyrn/bookmarks-organizer)
+- [**Bookmarks Organizer (Firefox addon WebExtension) manager, duplicates, http(s) errors, WebExtension**](https://github.com/cadeyrn/bookmarks-organizer)
 
 - [**SyncPlaces, SortPlaces ... preserving these and other excellent Firefox add-ons - Daniel Lange's blog**](https://daniel-lange.com/archives/71-SyncPlaces,-SortPlaces-...-preserving-these-and-other-excellent-Firefox-add-ons.html) & [mirror] http://archive.is/watrT)
 
