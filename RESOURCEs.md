@@ -1,6 +1,6 @@
 # Resources (legacy-addons related, Bookmarking, Bookmarks & History... etc)
 
-Description: A small list of interesting tools, information and links related to Firefox Bookmarking (aka Firefox Places)  and Bookmarking in general.
+Description: A small list of interesting **tools**, information and links related to **Firefox** and web browsers **Bookmarking** (aka Firefox Places, Bookmarks & History) and general bookmarks utils.
 
 ## List of Bookmarking related tools and utils:
 
