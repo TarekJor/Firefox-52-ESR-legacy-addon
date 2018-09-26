@@ -2,7 +2,7 @@
 
 Description: A small list of interesting **tools**, information and links related to **Firefox** and web browsers **Bookmarking** (aka Firefox Places, Bookmarks & History) and general bookmarks utils.
 
-## List of Bookmarking related tools and utils:
+## List of Bookmarking related tools, utils and historic-info:
 
 - [**416611 @Bugzilla - support importing tags from bookmarks.html exports (del.icio.us and others)**](https://bugzilla.mozilla.org/show_bug.cgi?id=416611)
 
