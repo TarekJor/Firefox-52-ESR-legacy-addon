@@ -23,7 +23,7 @@
 - [Sync and unify databases](#sync--unification-database1)
 - [Observation (WIP) state](#observation-wip-state)
 
-## Why? (reason of this)
+## [Why? (reason of this)](#main-objective)
 
 Mozilla will be (soon, this November-2017)
 - Purge XUL, XPCOM support for addons (Firefox extensions, themes)
@@ -100,9 +100,9 @@ I respect author rights as original source code creator open source licenses, cr
 
 Any fella who wants contribute 
 
-## Sources (see [sources](/%23SOURCEs.md))
-## Questions (see [questions](/QUESTIONs..md))
-## [IDEAs to improve Mozilla and Firefox(/# IDEAs to improve Mozilla and Firefox.md]
+## Sources (see [sources](/md/SOURCEs.md))
+## Questions (see [questions](/md/QUESTIONs..md))
+## [IDEAs to improve Mozilla and Firefox(/md/IDEAs to improve Mozilla and Firefox.md]
 ## Other failures and bad decisions by **Mozilla**
 - FirefoxOS aka Boot2Gecko
 - Australis (for me that is a good decision, is not a mistake
@@ -122,6 +122,7 @@ Any fella who wants contribute
 - **FEBE** - a core addon for backups schedule, (must be a core feature for god shake) by Chuck Baker.
 - **SQLite Manager**  - yeah, this is so useful and will be obsolete.
 ... to be continued
+
 **Observation:** Most veteran authors are "angry" "preparing silencers" (non literally I suppose) about **Mozilla move of deprecating XUL-based support without proper replacer on functional and features context**.
 Mozilla logic (lack of logic): I remove one technology without replacing ith proper one ( the real reason is scary, about Chromium-like, lack of personality, it is a conspiracy LOL)
 
